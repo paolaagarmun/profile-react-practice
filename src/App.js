@@ -14,7 +14,6 @@ function App() {
       <Route path="/biography" element={<BiographyView/>}/>
       <Route path="/works" element={<WorksView/>}/>
     </Routes>
-      let's build a website that shows Isabel Allende's life and works
     </>
   );
 }

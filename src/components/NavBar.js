@@ -5,15 +5,13 @@ import './NavBar.css'
 
 function NavBar () {
     return (
-        <Navbar bg="light" variant="light">
-            <Container>
-            <Nav className="me-auto">
-            <Link to="/">Home</Link>
-            <Link to="/biography">Biography</Link>
-            <Link to="/works">Works</Link>
-            </Nav>
-            </Container>
-        </Navbar>
+        <div className='navbar'>
+            
+            <Link to="/" className='links'>Home</Link>
+            <Link to="/biography" className='links'>Biography</Link>
+            <Link to="/works" className='links'>Works</Link>
+            
+        </div>
     )
 }
 

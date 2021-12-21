@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    background-color: #80BD9E;
+}
+.links {
+    text-decoration: none;
+    color:#FF420E;
+}
