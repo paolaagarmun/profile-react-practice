@@ -1,0 +1,127 @@
+[
+    {
+        "autora":"Isabel Allende",
+        "titulo":"La Casa de los Espiritus",
+        "publicacion":"1982",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"De Amoy y de sombra",
+        "publicacion":"1984",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"Eva Luna",
+        "publicacion":"1987",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El Plan Infinito",
+        "publicacion":"1991",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"Paula",
+        "publicacion":"1994",
+        "genero":"obra autobiografica"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"Hija de la fortuna",
+        "publicacion":"1998",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"Retrato en sepia",
+        "publicacion":"2000",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"La ciudad de las bestias",
+        "publicacion":"2002",
+        "genero":"novela juvenil"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"Mi pais inventado",
+        "publicacion":"2003",
+        "genero":"obra autobiografica"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El reino del dragon de oro",
+        "publicacion":"2003",
+        "genero":"novela juvenil"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El bosque de los pigmeos",
+        "publicacion":"2004",
+        "genero":"novela juvenil"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El Zorro: comienza la leyenda",
+        "publicacion":"2005",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El reino del dragon de oro",
+        "publicacion":"2003",
+        "genero":"novela juvenil"
+    },{
+        "autora":"Isabel Allende",
+        "titulo":"Ines del alma mia",
+        "publicacion":"2006",
+        "genero":"novela historica"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"La suma de los dias",
+        "publicacion":"2007",
+        "genero":"obra autobiografica"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"La isla bajo el mar",
+        "publicacion":"2009",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El cuaderno de Maya",
+        "publicacion":"2011",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El juego de Ripper",
+        "publicacion":"2014",
+        "genero":"novela policiaca"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"El amante japones",
+        "publicacion":"2015",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"Mas alla del invierno",
+        "publicacion":"2017",
+        "genero":"novela"
+    },
+    {
+        "autora":"Isabel Allende",
+        "titulo":"Largo petalo de mar",
+        "publicacion":"2019",
+        "genero":"novela"
+    }
+]
